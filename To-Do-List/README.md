@@ -37,7 +37,8 @@ To-Do List on Blockchain
 - Soroban SDK
 - Stellar Blockchain
 ---
-Transaction Address:  aa411c31cb008f55e80a5283ffca364692be223cd32b4a2e278f4e001d9c39ef
+Contract Address: CDGLWEIH4HGSLLV62GU3AFA4FW6Q6AL45KFC77P3WAEKEA2N2TEUUXHDF
+
 
 Transaction Imsge:
 
